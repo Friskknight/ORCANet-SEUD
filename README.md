@@ -11,8 +11,9 @@
 ## Overview
 This repository provides the official implementation of **ORCANet** for all-in-one video restoration under smoothly evolving and unknown weather degradations (SEUD). ORCANet integrates coarse intensity–aware dehazing and a temporal prompt design for stable restoration under evolving degradation types and intensities.
 <p align="center">
-  <img src="assets/mainflowcrop.png" width="90%">
+  <img src="assets/mainflowcrop.jpg" width="100%">
 </p>
+
 **Figure:** Overview of the ORCANet.
 
 ---
@@ -67,8 +68,9 @@ basicsr/data/meta_info/<your_dataset>_meta_info.txt
 The synthesis code and the SEUD dataset are under preparation and will be released in a later update.
 
 <p align="center">
-  <img src="assets/synthsis_crop.png" width="90%">
+  <img src="assets/synthsis_crop.jpg" width="100%">
 </p>
+
 
 **Figure:** Overview of the SEUD weather synthesis pipeline.
 
