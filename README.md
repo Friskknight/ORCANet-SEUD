@@ -31,6 +31,8 @@ pip install -r requirement.txt
 python setup.py develop
 ```
 
+---
+
 ## Preparation
 
 ### 1) Download experiment folder (pretrained weights)
@@ -76,6 +78,8 @@ The synthesis code and the SEUD dataset are under preparation and will be releas
 
 
 **Figure:** Overview of the SEUD weather synthesis pipeline.
+
+---
 
 ## Training
 
